@@ -29,7 +29,6 @@ void main(){
 
 
 List counting=[1,2,3,4,5,6,7,8,9,10];
-
 print("Enter userINpurt");
 
 var userINput=int.parse(stdin.readLineSync()!);

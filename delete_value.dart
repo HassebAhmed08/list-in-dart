@@ -24,19 +24,16 @@ print(officeboys);
 
 
 List classes = [1,2,3,4,5,6,7,8,9,10];
-
 classes.removeRange(0, 4);
-// print(classes);
+print(classes);
 
 
 List birds = [10,20,30,40,50,60,70];
-
 birds.removeWhere((element)=>element >40 );
 print(birds);
 
 
 List bird = [10,20,30,40,50,60,70];
-
 birds;
 print(bird);
 

@@ -17,5 +17,4 @@ if (number %2==0) {
 } else {
   print("$number Number is odd");
 }
-
 }
