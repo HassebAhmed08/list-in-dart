@@ -1,28 +1,27 @@
 
 
 
-// void main (){
-// List students = ['ali','bilal','kamran','haseeb','momin','rehman'] ;
+void main (){
+List students = ['ali','bilal','kamran','haseeb','momin','rehman'] ;
 
-// students.remove('ali');
-// print(students);
-
-
+students.remove('ali');
+print(students);
 
 
-// List boys = ['ali','bilal','kamran','haseeb','momin','rehman'] ;
-
-// boys.removeAt(4);
-// print(boys);
 
 
-// List officeboys = ['ali','bilal','kamran','haseeb','momin','rehman'] ;
+List boys = ['ali','bilal','kamran','haseeb','momin','rehman'] ;
 
-// officeboys.removeLast();
+boys.removeAt(4);
+print(boys);
 
-// print(officeboys);
 
- void main (){
+List officeboys = ['ali','bilal','kamran','haseeb','momin','rehman'] ;
+
+officeboys.removeLast();
+
+print(officeboys);
+
 
 List classes = [1,2,3,4,5,6,7,8,9,10];
 
@@ -56,6 +55,5 @@ print(names);
 
 
 
-
-
 }
+

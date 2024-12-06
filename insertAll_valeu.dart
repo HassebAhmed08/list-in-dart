@@ -8,7 +8,6 @@ numb.insertAll(5, ["iterable"]);
 print(numb);
 
 
-
 List<String> names = ["ahmed",'bilal','rehman','jhangir'] ;
 names.insertAll(1, ['1','2','3',]);
 print(names);
